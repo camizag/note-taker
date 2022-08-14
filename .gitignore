@@ -1,7 +1,0 @@
-node_modules/
-.npm
-.env
-.DS_Store
-package-lock.json
-.vscode/
-NOTES.md
